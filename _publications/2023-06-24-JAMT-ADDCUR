@@ -1,14 +1,14 @@
 ---
 title: "Additively manufactured cure tools for composites manufacture"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publication/2023-06-24-JAMT-ADDCUR
+excerpt: 'This research presents a novel framework for the design of additively manufactured (AM) composite tooling for the manufacture of carbon fibre-reinforced plastic composites.'
+date: 2023-06-24
+venue: 'The International Journal of Advanced Manufacturing Technology'
+paperurl: 'https://link.springer.com/article/10.1007/s00170-023-11254-y'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This research presents a novel framework for the design of additively manufactured (AM) composite tooling for the manufacture of carbon fibre-reinforced plastic composites. Through the rigorous design and manufacture of 30 unique AM tools, the viability of a design for AM framework was evaluated through measuring the performance with respect to geometrical accuracy and thermal responsiveness, and simulating the tool specific stiffness. The AM components consisted of a thin layup facesheet, stiffened by a low density lattice geometry. These tools were successfully used to layup and cure small composite components. The tooling was highly thermally responsive, reaching above 93% of the applied oven heating rate and up to 17% faster heating rates compared to similar mass monolithic tools. The results indicate that thermal overshoot has a greater dependence on the lattice density while the heating rate was more sensitive to the facesheet thickness. Lattice densities of as little as 5% were manufactured and the best overall geometry was a graded gyroid lattice with thicker walls near the surface and thinner walls at the base, attached to a 0.7 mm thick facesheet. The outputs from this research can provide a new route to the design and manufacture of mould tools, which could have significant impacts in the composites sector with new, lighter, more energy efficient tooling.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
