@@ -88,7 +88,7 @@ author:
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :  "maxvalentine@icloud.com"
-  researchgate     :  "https://researchportal.bath.ac.uk/en/persons/max-valentine"
+  researchgate     :  # "https://researchportal.bath.ac.uk/en/persons/max-valentine"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  threads          :  "https://www.threads.net/@maxvalentine_"
 
 # Reading Files
 include:
