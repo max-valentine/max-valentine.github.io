@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-![About me photo](/images/coverphoto.jpeg){: .align-right width="400px"}
-
 - My research interests are sports engineering, data-driven design, human-centred design, additive manufacturing, and any interdisciplinary combination of the above!
 
 - I completed my PhD in 2023 in my work titled, "The Design of an Athlete-Specific Spike Plate for Skeleton".
