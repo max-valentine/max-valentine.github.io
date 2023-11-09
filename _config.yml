@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Max Valentine, PhD"
   avatar           : "profilephoto.JPG"
-  bio              : "Designing personalised solutions for biomechanical challenges."
+  bio              : "University of Bath | Designing personalised solutions for biomechanical challenges."
   location         : "London, UK"
-  employer         :  "University of Bath"
+  employer         :  # "University of Bath"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :  "maxvalentine@icloud.com"
