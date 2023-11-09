@@ -5,6 +5,9 @@ main:
     url: /portfolio/
     
   - title: "Publications"
+    url: /publications/
+
+  - title: "ResearchPortal"
     #url: /publications/
     url: https://researchportal.bath.ac.uk/en/persons/max-valentine
     
