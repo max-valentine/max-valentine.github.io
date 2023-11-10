@@ -68,8 +68,13 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  links: 
+    - "https://www.linkedin.com/in/-maxvalentine"
+    - "https://github.com/max-valentine"
+    - "https://www.researchgate.net/profile/Max_Valentine"
+    - "https://www.instagram.com/maxvalentine_/"
+    - "https://www.threads.net/@maxvalentine_"
+    - "https://researchportal.bath.ac.uk/en/persons/max-valentine"
 
 # Analytics
 analytics:
