@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Max Valentine <i class="fas fa-fw fa-heart"></i>"
+title: "Max Valentine"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
