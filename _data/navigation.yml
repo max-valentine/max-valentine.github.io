@@ -8,11 +8,11 @@ main:
     url: /publications/
 
   #- title: "ResearchPortal"
-    #url: /publications/
-    #url: https://researchportal.bath.ac.uk/en/persons/max-valentine
+  #  url: /publications/
+  #  url: https://researchportal.bath.ac.uk/en/persons/max-valentine
     
   - title: "CV"
-    #url: /cv/
+  #  url: /cv/
     url: /files/Valentine_Max_CV.pdf
 
   #- title: "Talks"
@@ -24,5 +24,5 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
