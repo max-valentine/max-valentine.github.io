@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Max Valentine"
+title: "👋 Hi. My name is Max."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 👋 Hi. My name is Max.
 
 <img src="/images/frontpage.jpg" style="float:right;width:28%;" hspace="5em"/>
 Thank you for visiting my website! Feel free to explore, learn, and <a href="mailto:maxvalentine@icloud.com">get in touch</a> if anything interests you! 
