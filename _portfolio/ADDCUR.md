@@ -1,6 +1,6 @@
 ---
 title: "ADDCUR"
-excerpt: "<br/><img src='/images/ADDCUR.jpg' style="width:90%"> Short description of portfolio item number 1"
+excerpt: "<br/><img src='/images/ADDCUR.jpg' style='width:90%;'> Short description of portfolio item number 1"
 collection: portfolio
 ---
 
