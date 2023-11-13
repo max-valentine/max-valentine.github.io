@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<div class="notice--success">
+<!--<div class="notice--success">
 <h1>About me</h1>
 <p align="justify" > Hello. I am testing this out.</p>
-</div>
+</div>-->
 
 <img src="/images/frontpage.jpg" style="float:right;width:28%;" hspace="5em"/>
 Thank you for visiting my website! Feel free to explore, learn, and <a href="mailto:maxvalentine@icloud.com">get in touch</a> if anything interests you! 
