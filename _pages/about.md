@@ -10,7 +10,7 @@ redirect_from:
 
 - My research interests are sports engineering, data-driven design, human-centred design, additive manufacturing, and any interdisciplinary combination of the above!
 
-- I completed my PhD in 2023 in my work titled, "The Design of an Athlete-Specific Spike Plate for Skeleton".
+- I completed my PhD research titled, "_The Design of an Athlete-Specific Spike Plate for Skeleton_" in 2023.
 
 
 # 🏅 Projects
@@ -20,12 +20,31 @@ redirect_from:
 # 🖥️ Skills
 
 ## Engineering Skills
+- Design of experiments
+- Human-centred design
+- Additive manufacturing
+- Finite element analysis
+- Impact testing and material analysis
+- Biomechanical testing and analysis
 
-## CAD Software
+## <li><i class="fas fa-fw fa-compass-drafting"></i>CAD Software</a></li> CAD Software
+- Rhino3d
+- Grasshopper
+- Autodesk Inventor
+- Autodesk Powershape
+- PrusaSlicer
+- QuantAM
+
 
 ## Programming Languages
+- MATLAB
+- Python
+- C#
 
 ## Misc
+- LaTeX
+- Microsoft Office
+- Adobe Creative Cloud
 
 # 🔬 Research
 
