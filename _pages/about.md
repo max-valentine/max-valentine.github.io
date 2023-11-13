@@ -10,7 +10,7 @@ redirect_from:
 
 Thank you for visiting my website! Feel free to explore, learn, and <a href="mailto:maxvalentine@icloud.com">get in touch</a> if anything interests you! 
 - My research interests are sports engineering, data-driven design, human-centred design, additive manufacturing, and any interdisciplinary combination of the above!
-- I completed my PhD research, "_The Design of an Athlete-Specific Spike Plate for Skeleton_" in 2023.
+- I completed my PhD, "_The Design of an Athlete-Specific Spike Plate for Skeleton_" in 2023 at the [University of Bath](https://www.bath.ac.uk/), supervised by Prof Vimal Dhokia, Dr Elise Pegg, and Dr Steffi Colyer.
 
 
 # 🏅 Projects
