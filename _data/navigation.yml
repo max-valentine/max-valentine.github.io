@@ -7,9 +7,9 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "ResearchPortal"
+  #- title: "ResearchPortal"
     #url: /publications/
-    url: https://researchportal.bath.ac.uk/en/persons/max-valentine
+    #url: https://researchportal.bath.ac.uk/en/persons/max-valentine
     
   - title: "CV"
     #url: /cv/
