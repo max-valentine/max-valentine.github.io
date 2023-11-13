@@ -90,10 +90,10 @@ author:
   bio              : "University of Bath | Designing personalised solutions for biomechanical challenges."
   location         : "London, UK"
   employer         :  # "University of Bath"
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  pubmed           :  "https://researchportal.bath.ac.uk/en/persons/max-valentine"
+  googlescholar    :  "https://researchportal.bath.ac.uk/en/persons/max-valentine"
   email            :  "maxvalentine@icloud.com"
-  researchgate     :  # "https://researchportal.bath.ac.uk/en/persons/max-valentine"
+  researchgate     :  "https://researchportal.bath.ac.uk/en/persons/max-valentine"
   uri              :
   bitbucket        :
   codepen          :
