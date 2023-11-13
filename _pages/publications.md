@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publication/
 author_profile: true
 toc_label: Research timeline
 toc_icon: dna
