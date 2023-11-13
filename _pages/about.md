@@ -19,7 +19,7 @@ redirect_from:
 
 # 🖥️ Skills
 
-## Engineering Skills
+## <i class="fas fa-fw fa-toolbox"></i> Engineering Skills
 - Design of experiments
 - Human-centred design
 - Additive manufacturing
@@ -27,7 +27,7 @@ redirect_from:
 - Impact testing and material analysis
 - Biomechanical testing and analysis
 
-## <i class="fas fa-fw fa-compass-drafting"></i> CAD Software
+## <i class="fas fa-fw fa-bezier-curve"></i> CAD Software
 - Rhino3d
 - Grasshopper
 - Autodesk Inventor
@@ -37,12 +37,12 @@ redirect_from:
 - QuantAM
 
 
-## Programming Languages
+## <i class="fas fa-fw fa-code"></i> Programming Languages
 - MATLAB
 - Python
 - C#
 
-## Misc
+## <i class="fas fa-fw fa-gears"></i> Misc
 - LaTeX
 - Microsoft Office
 - Adobe Creative Cloud
