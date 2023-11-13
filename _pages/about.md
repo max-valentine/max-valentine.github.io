@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my website! Feel free to explore, learn, and <u><a href="mailto:{{ author.email }}">get in touch</a>if anything interests you!</u>> 
+Thank you for visiting my website! Feel free to explore, learn, and <a href="mailto:maxvalentine@icloud.com">get in touch</a> if anything interests you! 
 - My research interests are sports engineering, data-driven design, human-centred design, additive manufacturing, and any interdisciplinary combination of the above!
 - I completed my PhD research, "_The Design of an Athlete-Specific Spike Plate for Skeleton_" in 2023.
 
