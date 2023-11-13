@@ -27,11 +27,12 @@ redirect_from:
 - Impact testing and material analysis
 - Biomechanical testing and analysis
 
-## <li><i class="fas fa-fw fa-compass-drafting"></i>CAD Software</a></li> CAD Software
+## <i class="fas fa-fw fa-compass-drafting"></i> CAD Software
 - Rhino3d
 - Grasshopper
 - Autodesk Inventor
 - Autodesk Powershape
+- Gen3D (Now part of Altair Inspire)
 - PrusaSlicer
 - QuantAM
 
