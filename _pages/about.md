@@ -18,7 +18,7 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
 - More text will go here
 
 # 🖥️ Skills
-##<i class="fas fa-fw fa-toolbox"></i> Engineering Skills
+## <i class="fas fa-fw fa-toolbox"></i> Engineering Skills
 - Design of experiments
 - Human-centred design
 - Additive manufacturing
@@ -26,7 +26,7 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
 - Impact testing and material analysis
 - Biomechanical testing and analysis
 
-##<i class="fas fa-fw fa-bezier-curve"></i> CAD Software 
+## <i class="fas fa-fw fa-bezier-curve"></i> CAD Software 
 - Rhino3d
 - Grasshopper
 - Autodesk Inventor
@@ -35,12 +35,12 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
 - PrusaSlicer
 - QuantAM
 
-##<i class="fas fa-fw fa-code"></i> Programming Languages 
+## <i class="fas fa-fw fa-code"></i> Programming Languages 
 - MATLAB
 - Python
 - C#
 
-##<i class="fas fa-fw fa-folder-open"></i> Additional Skills 
+## <i class="fas fa-fw fa-folder-open"></i> Additional Skills 
 - LaTeX
 - Microsoft Office
 - Adobe Creative Cloud
