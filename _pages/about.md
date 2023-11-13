@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Thank you for visiting my website! Feel free to explore, learn, and <a href="mailto:maxvalentine@icloud.com">get in touch</a> if anything interests you! 
-<img src="/images/500x300.png" style="float:right;width:5em;height:3em"/>
+<img src="/images/frontpage.jpg" style="float:right;width:30em;height:20em"/>
 - My research interests are sports engineering, data-driven design, human-centred design, additive manufacturing, and any interdisciplinary combination of the above!
 - I completed my PhD, "_The Design of an Athlete-Specific Spike Plate for Skeleton_" in 2023 at the <a href="https://www.bath.ac.uk/" target="_blank" rel="noopener">University of Bath</a>, supervised by <a href="https://researchportal.bath.ac.uk/en/persons/vimal-dhokia" target="_blank" rel="noopener">Prof Vimal Dhokia</a>, <a href="https://researchportal.bath.ac.uk/en/persons/elise-pegg" target="_blank" rel="noopener">Dr Elise Pegg</a>, and <a href="https://researchportal.bath.ac.uk/en/persons/steffi-colyer" target="_blank" rel="noopener">Dr Steffi Colyer</a>.
 
