@@ -21,7 +21,7 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
 
 # 🏅 Projects
 
-- More text will go here
+[![Funky Christmas Baubles](images/baubles.png)](https://max-valentine.github.io/portfolio/baubles/)
 
 # 🖥️ Skills
 ## <i class="fas fa-fw fa-toolbox"></i> Engineering Skills
