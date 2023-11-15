@@ -1,6 +1,6 @@
 ---
 title: "Christmas Baubles"
-excerpt: "<br/><img src='/images/ADDCUR.jpg' style='width:10%;'> Short description of portfolio item number 1"
+excerpt: "<br/><img src='/images/Bauble.png' style='width:40%;'> Killing time making some funky Christmas ornaments"
 collection: portfolio
 ---
 ## Parametric Modelling (Made using _Grasshopper for Rhino3D_)
