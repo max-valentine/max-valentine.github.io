@@ -23,13 +23,13 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
 
 <a href="https://max-valentine.github.io/portfolio/baubles/">
 
-![Funky Christmas Baubles](/images/Bauble.png) height=300px]
+![Funky Christmas Baubles](/images/Bauble.png =x250)]
 
 </a>
 
 <a href="https://max-valentine.github.io/portfolio/ADDCUR/">
 
-![Metal AM Composite Mould Tools](/images/ADDCUR.jpg) height=300px]
+![Metal AM Composite Mould Tools](/images/ADDCUR.jpg =x250)]
 
 </a>
 
