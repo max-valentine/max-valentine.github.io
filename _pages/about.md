@@ -28,6 +28,9 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
   <a href="https://max-valentine.github.io/portfolio/ADDCUR/">
   <img src="/images/ADDCUR.jpg" style="height:200px;" hspace="5em">
   </a>
+  <a href="https://max-valentine.github.io/portfolio/phd-thesis/">
+  <img src="/images/grasshopper.png" style="height:200px;" hspace="5em">
+  </a>
 </p>
 
 
