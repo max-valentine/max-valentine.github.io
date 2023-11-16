@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋 Hi. My name is Max."
-excerpt: "About me"
+excerpt: "Design portfolio and research database"
 author_profile: true
 redirect_from: 
   - /about/
