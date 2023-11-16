@@ -1,6 +1,6 @@
 ---
 title: "ADDCUR"
-excerpt: "<br/><img src='/images/ADDCUR.jpg' style='width:50%;'> <p>Design and manufacture of metallic additively manufactured composite mould tools</p>"
+excerpt: "Design and manufacture of metallic additively manufactured composite mould tools <br/> <img src='/images/ADDCUR.jpg' style='width:50%;'>"
 collection: portfolio
 ---
 
