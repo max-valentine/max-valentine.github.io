@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis"
-excerpt: "_The Design of an Athlete-Specific Spike Plate for Skeleton_ 1<br/><img src='/images/grasshopper.png' style='width:50%;'>"
+excerpt: "_'The Design of an Athlete-Specific Spike Plate for Skeleton'_ at the University of Bath <br/><img src='/images/grasshopper.png' style='width:50%;'>"
 collection: portfolio
 ---
 
