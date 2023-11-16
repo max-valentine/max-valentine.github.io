@@ -1,6 +1,6 @@
 ---
 title: "ADDCUR"
-excerpt: "Design and manufacture of metallic additively manufactured composite mould tools <br/> <img src='/images/ADDCUR.jpg' style='width:50%;'>"
+excerpt: "Design and manufacture of metallic additively manufactured composite mould tools <br/> <a href="https://max-valentine.github.io/portfolio/baubles/"><img src='/images/ADDCUR.jpg' style='width:50%;'></a>"
 collection: portfolio
 ---
 
