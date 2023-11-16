@@ -21,7 +21,17 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
 
 # 🏅 Projects
 
-[![Funky Christmas Baubles](/images/Bauble.png)](https://max-valentine.github.io/portfolio/baubles/)
+<a href="https://max-valentine.github.io/portfolio/baubles/">
+
+![Funky Christmas Baubles](/images/Bauble.png) height=300px]
+
+</a>
+
+<a href="https://max-valentine.github.io/portfolio/ADDCUR/">
+
+![Metal AM Composite Mould Tools](/images/ADDCUR.jpg) height=300px]
+
+</a>
 
 # 🖥️ Skills
 ## <i class="fas fa-fw fa-toolbox"></i> Engineering Skills
