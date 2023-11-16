@@ -21,13 +21,13 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
 
 # 🏅 Projects
 
-<p><a href="https://max-valentine.github.io/portfolio/baubles/">
-<img src="/images/Bauble.png" height="150">
+<a href="https://max-valentine.github.io/portfolio/baubles/">
+<img src="/images/Bauble.png" style="height:150px;" hspace="5em">
 </a>
   
 <a href="https://max-valentine.github.io/portfolio/ADDCUR/">
-<img src="/images/ADDCUR.jpg" height="150">
-</a></p>
+<img src="/images/ADDCUR.jpg" style="height:150px;" hspace="5em">
+</a>
 
 
 # 🖥️ Skills
