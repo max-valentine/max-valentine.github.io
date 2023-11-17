@@ -26,7 +26,7 @@ _This is an assortment of stuff that I find cool, interesting, inspiring, or jus
 11. <a href="https://www.on-running.com/en-gb/collection/cyclon" style="text-decoration:none; color:#494e52" target="_blank" rel="noopener">On Cyclon</a>
 12. <a href="https://www.youtube.com/watch?v=LdCe5ZbdNgQ&ab_channel=NHL" style="text-decoration:none; color:#494e52" target="_blank" rel="noopener">Börje Salming</a>
 13. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration:none; color:#494e52" target="_blank" rel="noopener">Easter Eggs</a>
-14. 
+14. <a href="https://sos.noaa.gov/education/phenomenon-based-learning/this-is-steve/" style="text-decoration:none; color:#494e52" target="_blank" rel="noopener">STEVE</a>
 15. 
 16. 
 17. 
