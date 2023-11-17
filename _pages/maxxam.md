@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 title: "MaxXam"
 permalink: /maxxam/
 author_profile: true
