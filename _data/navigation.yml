@@ -15,6 +15,9 @@ main:
   #  url: /cv/
     url: /files/Valentine_Max_CV.pdf
 
+  - title: "MAXPMP"
+    url: /maxpmp/
+
   #- title: "Talks"
   #  url: /talks/    
 
