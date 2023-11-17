@@ -1,10 +1,10 @@
 ---
 layout: compress
 title: "MaxXam"
-permalink: /maxamp/
+permalink: /maxxam/
 author_profile: true
 redirect_from:
-  - /MaxPMP
+  - /MAXXAM
 ---
 
 {% include base_path %}
