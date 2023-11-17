@@ -26,7 +26,7 @@ Thank you for visiting my website! Feel free to explore, learn, and <a href="mai
   <img src="/images/ADDCUR.jpg" style="width:55%;" hspace="10em" vspace="10em">
   </a>
   <a href="https://max-valentine.github.io/portfolio/baubles/">
-  <img src="/images/Bauble.png" style="width:40%;" hspace="10em" vspace="10em">
+  <img src="/images/Bauble.png" style="width:35%;" hspace="10em" vspace="10em">
   </a>
   <a href="https://max-valentine.github.io/portfolio/phd-thesis/">
   <img src="/images/grasshopper.png" style="width:55%;" hspace="5em" vspace="10em">
