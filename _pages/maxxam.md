@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "MaxXam"
 permalink: /maxxam/
 author_profile: true
