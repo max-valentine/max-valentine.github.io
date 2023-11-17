@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to **Max**'s e**X**ploration using an **A**rtificial **M**emory system, adapted from [ADDPMP: Attention Deficit Disorder Prosthetic Memory Program](https://addpmp.slamjam.com/).
-- This is an assortment of stuff that I find cool, interesting, inspiring, or just 'cuz
+Welcome to **Max**'s e**X**ploration using an **A**rtificial **M**emory system, adapted from [ADDPMP](https://addpmp.slamjam.com/).
+_This is an assortment of stuff that I find cool, interesting, inspiring, or just 'cuz_
 
-1. [James Popsys](https://www.jamespopsys.com/)
+1. <a href="https://www.jamespopsys.com/" style="color:$gray">James Popsys</a>
 2. [Vivobiome](https://vivobiome.vivobarefoot.com/)
 3. [WatchHouse](https://watchhouse.com/)
 4. [BenIsrunning](https://www.youtube.com/@BenIsRunning)
