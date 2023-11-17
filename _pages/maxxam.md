@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-This is Max's eXploration for Artificial Memory, adapted from [ADDPMP: Attention Deficit Disorder Prosthetic Memory Program](https://addpmp.slamjam.com/).
-- Here I will keep a list of things in no particular order that I find cool, interesting, inspiring, or just 'cuz
+Welcome to **Max**'s e**X**ploration using an **A**rtificial **M**emory system, adapted from [ADDPMP: Attention Deficit Disorder Prosthetic Memory Program](https://addpmp.slamjam.com/).
+- This is an assortment of stuff that I find cool, interesting, inspiring, or just 'cuz
 
 1. [James Popsys](https://www.jamespopsys.com/)
 2. [Vivobiome](https://vivobiome.vivobarefoot.com/)
@@ -23,7 +23,8 @@ This is Max's eXploration for Artificial Memory, adapted from [ADDPMP: Attention
 9. [Parametric Camp](https://www.youtube.com/parametriccamp)
 10. [IDA Sports](https://www.idasports.com/en-gb/pages/our-story)
 11. [On Cyclon](https://www.on-running.com/en-gb/collection/cyclon)
-12. 
+12. [Börje Salming](https://www.youtube.com/watch?v=LdCe5ZbdNgQ&ab_channel=NHL)
+13. 
 
 _MAXXAM is an ever-evolving list and by nature will never be completed..._
 
